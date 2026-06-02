@@ -1,5 +1,6 @@
 # Spoof CNN vision
 by adding high-frequency signals to the image to spoof CNN(Resnet50) vision.
+There are 4 versions, last one is the best.
 
 # Usage
 1. put `original.jpg` and python files in same folder
@@ -18,7 +19,7 @@ python diff.py
 
 ---
 
-![example](ex.png)
+![example](res/ex.png)
 
 ---
 
